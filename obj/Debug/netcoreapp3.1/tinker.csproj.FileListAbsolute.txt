@@ -1,0 +1,12 @@
+/Users/habbes/code/tinker/py-threads-test/tinker/bin/Debug/netcoreapp3.1/tinker.deps.json
+/Users/habbes/code/tinker/py-threads-test/tinker/bin/Debug/netcoreapp3.1/tinker.runtimeconfig.json
+/Users/habbes/code/tinker/py-threads-test/tinker/bin/Debug/netcoreapp3.1/tinker.runtimeconfig.dev.json
+/Users/habbes/code/tinker/py-threads-test/tinker/bin/Debug/netcoreapp3.1/tinker.dll
+/Users/habbes/code/tinker/py-threads-test/tinker/bin/Debug/netcoreapp3.1/tinker.pdb
+/Users/habbes/code/tinker/py-threads-test/tinker/obj/Debug/netcoreapp3.1/tinker.csprojAssemblyReference.cache
+/Users/habbes/code/tinker/py-threads-test/tinker/obj/Debug/netcoreapp3.1/tinker.csproj.CoreCompileInputs.cache
+/Users/habbes/code/tinker/py-threads-test/tinker/obj/Debug/netcoreapp3.1/tinker.AssemblyInfoInputs.cache
+/Users/habbes/code/tinker/py-threads-test/tinker/obj/Debug/netcoreapp3.1/tinker.AssemblyInfo.cs
+/Users/habbes/code/tinker/py-threads-test/tinker/obj/Debug/netcoreapp3.1/tinker.dll
+/Users/habbes/code/tinker/py-threads-test/tinker/obj/Debug/netcoreapp3.1/tinker.pdb
+/Users/habbes/code/tinker/py-threads-test/tinker/obj/Debug/netcoreapp3.1/tinker.genruntimeconfig.cache
